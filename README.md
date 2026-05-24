@@ -1,6 +1,6 @@
 # May 2026: Mental Health Awareness Month
 
-The rising prevalence of mental health conditions: where do systems create pressure on mental health?
+The rising prevalence of mental health conditions: Where do systems create pressure on mental health?
 
 ## Status 
 In progress — expected completion: 30 May 2026
