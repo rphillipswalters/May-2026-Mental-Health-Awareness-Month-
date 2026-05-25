@@ -39,7 +39,13 @@ Initial analysis suggests a potential increase in student mental health concerns
 - Some datasets may not directly measure academic pressure
 - Findings may indicate correlation rather than causation
 
-## Next Steps
-- Finalise dataset selection and cleaning
-- Complete analysis and visualisation
-- Integrate findings into overall project comparison across systems
+## Further Development & Research Integration
+To strengthen this analysis, further research will be incorporated to provide deeper context and explanation of the observed trends.
+
+This includes:
+- Academic literature on student mental health and academic pressure
+- Studies exploring the relationship between workload, stress, and anxiety levels in young people
+- Reports on access to mental health support services within educational institutions
+- Policy and institutional research on student wellbeing and support provision
+
+Incorporating these sources will allow for a more comprehensive understanding of how educational environments contribute to mental health outcomes and support stronger, evidence-based conclusions.
