@@ -48,15 +48,22 @@ A multi-line graph is used to compare:
 
 These measures collectively provide insight into service demand, patient experience, and performance against NHS targets.
 
+## Data Quality Considerations
+
+When interpreting these findings, it is important to note that NHS England reported data quality issues between October and December 2022 due to missing submissions from one or more NHS Trusts.
+
+Specifically:
+
+* October 2022: Frimley Health NHS Foundation Trust and Manchester University NHS Foundation Trust did not submit data.
+* November 2022: Frimley Health NHS Foundation Trust and Manchester University NHS Foundation Trust did not submit data.
+* December 2022: Manchester University NHS Foundation Trust did not submit data.
+
+NHS England provides estimated national-level figures to account for non-reporting providers. However, trends observed during this period should be interpreted with appropriate caution, as missing submissions may have affected reported waiting-time measures and pathway counts.
+
+
 ## Insight
 
-Increasing numbers of incomplete pathways may indicate growing demand for services and increasing pressure on healthcare systems.
-
-Where backlogs increase alongside longer waiting times and declining performance against the NHS 18-week target, this may suggest that service capacity is struggling to keep pace with demand.
-
-Longer waits for assessment or treatment can delay access to support and may contribute to poorer outcomes for individuals experiencing mental health difficulties.
-
-These findings highlight the importance of evaluating not only service demand, but also the effectiveness of policy implementation and healthcare provision.
+Missing submissions occurred between October and December 2022 from one or more NHS Trusts. While the underlying cause is not specified within the dataset, non-reporting may reflect operational, technical, or administrative challenges. As a result, trends during this period should be interpreted with caution.
 
 ## Tools Used
 
