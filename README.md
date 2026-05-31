@@ -3,7 +3,7 @@
 The rising prevalence of mental health conditions: Where do systems create pressure on mental health?
 
 ## Status 
-In progress — expected completion: 30 May 2026
+In progress
 
 ## Project Overview
 This project explores the rising prevalence of mental health conditions, focusing on how different systems may contribute to psychological pressure.
