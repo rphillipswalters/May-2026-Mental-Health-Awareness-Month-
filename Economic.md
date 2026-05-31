@@ -33,14 +33,15 @@ The analysis follows a structured approach:
 A multi-line graph is used to compare unemployment rates and anxiety levels over time, allowing for visual identification of trends and potential relationships.
 
 ## Insight
+<img width="785" height="586" alt="image" src="https://github.com/user-attachments/assets/abf2520c-d1be-4d9d-a0de-43b9a56c02cf" />
 
-Unemployment rates show a general downward trend over time, while anxiety levels remain relatively stable with minor fluctuations.
+Unemployment rates show a general upward trend over time, while anxiety levels remain relatively stable with minor fluctuations.
 
-Despite improvements in employment conditions, anxiety does not decrease proportionally, suggesting that mental health outcomes are influenced by multiple factors beyond employment alone.
+Despite worsening employment conditions, anxiety does not increase proportionally, suggesting that mental health outcomes are influenced by multiple factors beyond employment alone.
 
 However, periods of higher unemployment coincide with slightly elevated anxiety levels, indicating that economic instability may still contribute to psychological stress.
 
-This highlights the complex relationship between economic conditions and mental health, and suggests that employment is one of several interacting systemic factors.
+This highlights the complex relationship between economic conditions and mental health and suggests that employment is one of several interacting systemic factors that may influence wellbeing.
 
 ## Tools Used
 - Python (pandas, matplotlib)
