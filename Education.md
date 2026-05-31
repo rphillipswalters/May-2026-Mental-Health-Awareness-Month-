@@ -32,7 +32,15 @@ The analysis follows a structured approach:
 - Comparison of support service demand where applicable  
 
 ## Key Insight (In Progress)
-Initial analysis suggests a potential increase in student mental health concerns over time. This may indicate growing psychological pressure within educational environments, particularly in relation to academic demands and access to support services.
+<img width="781" height="585" alt="image" src="https://github.com/user-attachments/assets/90ff780d-7a7e-43cd-80f7-402a6dda3129" />
+
+Mean anxiety scores remained relatively elevated across both age groups throughout the period analysed.
+
+Individuals aged 20–24 frequently reported higher anxiety scores than those aged 16–19, suggesting additional pressures associated with transitions into higher education, employment, financial independence, and adulthood.
+
+While fluctuations were observed across quarters, there was no clear evidence of a sustained reduction in anxiety levels between 2022 and 2025.
+
+Given that many individuals within these age groups are engaged in education, these findings support further investigation into how educational systems, academic pressure, and access to support services may influence mental wellbeing.
 
 ## Limitations
 - Data availability may vary across sources
