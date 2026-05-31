@@ -92,7 +92,6 @@ Python
 Pandas
 Matplotlib
 Google Colab
-GitHub
 
 ## Files
 
