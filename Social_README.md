@@ -44,7 +44,7 @@ Three demographic dimensions were selected for investigation:
 
 These dimensions were chosen because the ways in which people are organised within society can create both barriers and sources of support. Factors such as cultural attitudes, social expectations, economic circumstances, and access to resources may influence how mental health difficulties are experienced and managed.
 
-Initial exploration produced several findings of interest. Population-adjusted detention rates suggested notable differences between ethnic groups, with some groups appearing disproportionately represented in Mental Health Act detentions. Similarly, unexpectedly high detention rates were observed among adults aged 65 and over, raising questions about the potential influence of factors such as physical health, social isolation, bereavement, and loss of independence.
+Initial exploration produced several findings of interest. Population-adjusted detention rates suggested notable differences between ethnic groups, with some groups appearing disproportionately represented in Mental Health Act detentions. 
 
 The proposed analytical framework aimed to examine four stages:
 
