@@ -46,7 +46,7 @@ A strong relationship was observed between deprivation and detention rates. Dete
 
 This was the clearest pattern identified during the exploratory phase and suggests that socioeconomic factors may play an important role in shaping crisis outcomes.
 
-# Graphs (can also be accessed via '[View the notebook](./social.ipynb)')
+# Graphs (can also be accessed via '[social stratification.ipynb](./social.ipynb)')
 <img width="1104" height="614" alt="image" src="https://github.com/user-attachments/assets/770d6d51-d960-438f-9946-02530f775e22" />
 <img width="990" height="546" alt="image" src="https://github.com/user-attachments/assets/0b10f7de-229e-4648-a6a2-f8eb24dd4724" />
 <img width="982" height="487" alt="image" src="https://github.com/user-attachments/assets/44296c63-ab0c-418b-9968-1b66335486b7" />
