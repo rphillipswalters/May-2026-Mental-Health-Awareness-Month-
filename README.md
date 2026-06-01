@@ -11,6 +11,13 @@ This project explores the rising prevalence of mental health conditions, focusin
 ## Research Question
 Where do systems create pressure on mental health?
 
+#### Segment READMEs
+1. [Economic](./Economic_README.md)
+2. [Education](./Education_README.md)
+3. [Healthcare](./Healthcare_README.md)
+4. [Government](./Government_README.md)
+5. [Social Stratification](./Social_README.md)
+
 ## Objectives
 - Explore trends in mental health prevalence
 - Identify system-level contributors (e.g. education, policy, access to care)
