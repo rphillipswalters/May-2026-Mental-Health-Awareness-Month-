@@ -25,6 +25,11 @@ By comparing these measures over time, the analysis seeks to identify patterns o
 
 Rather than viewing mental health solely through the lens of illness, this project considers how broader social circumstances may influence wellbeing, support-seeking behaviour, and crisis outcomes. The findings aim to contribute to a wider discussion on mental health inequalities and the role that social factors may play in shaping mental health experiences.
 
+## Data obtained:
+Although it was not possible to obtain all of the data required to answer the original research question, analyses were completed where sufficient and comparable data were available. Population-adjusted measures and visualisations were created to explore meaningful patterns within the available evidence.
+
+Rather than forcing conclusions from incomplete data, only analyses supported by robust and comparable datasets were included. The remaining elements of the framework have been retained as areas for future investigation should suitable data become available.
+
 ## Further Research & Limitations : Social Stratification and Mental Health Inequalities
 
 A proposed section of this project aimed to explore whether mental health pressures are experienced equally across different demographic groups in England.
