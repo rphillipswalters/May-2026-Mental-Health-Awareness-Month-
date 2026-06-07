@@ -12,11 +12,11 @@ This project explores the rising prevalence of mental health conditions, focusin
 Where do systems create pressure on mental health?
 
 #### Segment READMEs
-1. [Economic](./Economic_README.md)
-2. [Education](./Education_README.md)
-3. [Healthcare](./Healthcare_README.md)
-4. [Government](./Government_README.md)
-5. [Social Stratification](./Social_README.md)
+1. [Economic]([./Economic_README.md](https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Economic/Economic_README.md))
+2. [Education]([./Education_README.md](https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Education/Education_Anxiety_Analysis.ipynb))
+3. [Healthcare]([./Healthcare_README.md](https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Healthcare/Healthcare_README.md))
+4. [Government]([./Government_README.md](https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Government/Government_README.md))
+5. [Social Stratification]([./Social_README.md](https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Social_Stratification/Social_README.md))
 
 ## Objectives
 - Explore trends in mental health prevalence
