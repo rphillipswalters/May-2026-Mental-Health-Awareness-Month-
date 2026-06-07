@@ -41,4 +41,4 @@ This project explores how systemic environments (such as education systems, poli
 - Finalise dataset selection
 - Complete analysis
 - Develop visual outputs
-- Share insights via LinkedIn and Substack (1st - 7th June)
+- Share insights via LinkedIn and Substack 
