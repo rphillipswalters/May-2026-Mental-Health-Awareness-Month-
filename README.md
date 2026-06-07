@@ -16,7 +16,7 @@ Where do systems create pressure on mental health?
 2. [Education]((https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Education/Education_Anxiety_Analysis.ipynb))
 3. [Healthcare]((https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Healthcare/Healthcare_README.md))
 4. [Government]((https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Government/Government_README.md))
-5. [Social Stratification]((https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Social_Stratification/Social_README.md))
+5. [Social Stratification](https://github.com/rphillipswalters/May-2026-Mental-Health-Awareness-Month-/blob/Social_Stratification/Social_README.md)
 
 ## Objectives
 - Explore trends in mental health prevalence
