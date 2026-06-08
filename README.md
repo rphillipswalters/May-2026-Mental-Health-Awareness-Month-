@@ -2,9 +2,6 @@
 
 The rising prevalence of mental health conditions: Where do systems create pressure on mental health?
 
-## Status 
-Completed
-
 ## Project Overview
 This project explores the rising prevalence of mental health conditions, focusing on how different systems may contribute to psychological pressure.
 
