@@ -33,11 +33,34 @@ Where do systems create pressure on mental health?
 - Visualisation of key trends
 - Interpretation of findings
 
-## Key Insight (In Progress)
+## Key Insight 
 This project explores how systemic environments (such as education systems, policy structures, and access to care) may contribute to increased psychological pressure, rather than viewing mental health conditions in isolation.
 
+**1. Mental health pressure appears to emerge through multiple interacting systems rather than a single factor.**
+* Economic, educational, healthcare, and social factors all contributed evidence of pressure within the analysis.
+
+**2. Deprivation demonstrated the strongest and clearest relationship with adverse mental health outcomes.**
+* Detention rates increased consistently as deprivation increased, suggesting socioeconomic disadvantage may play an important role in shaping crisis outcomes.
+
+**3. Young adulthood emerged as a critical period of vulnerability.**
+* Adults aged 18–34 experienced the highest detention rates, while educational data suggested elevated anxiety during transitions into higher education, employment, and financial independence.
+
+**4. Mental health pressure is not experienced equally across the population.**
+* Substantial differences were observed across deprivation, ethnicity, and age groups, indicating that some populations may face greater barriers and risks than others.
+
+**5. Healthcare system pressures may reinforce existing challenges.**
+* Increasing waiting times, service backlogs, and reduced access to support appeared alongside growing service demand, suggesting the potential for self-reinforcing pressure within the system.
+
+**6. Mental health pressure appears to persist through interconnected feedback mechanisms.**
+* The synthesis stage suggested that socioeconomic disadvantage, educational pressures, service demand, and barriers to care may interact in ways that sustain pressure over time.
+
+## Project Takeaway & Corresponding links 
+This project suggests that mental health pressure may be better understood as a systems issue rather than the result of any single factor. The findings highlight the importance of considering social, educational, economic, and healthcare influences together when exploring mental health outcomes and opportunities for intervention.
+
+[Final Synthesis Data, with graphs and further insight](./Final_Synthesis.ipynb)
+
+[Missing Sankey Graph, from 'Final_Synthesis.ipynb'](./Missing_Sankey.md)
+
 ## Next Steps
-- Finalise dataset selection
-- Complete analysis
-- Develop visual outputs
-- Share insights via LinkedIn and Substack 
+- Share insights via LinkedIn and Substack
+- Sythnesis research papers to further explain findings 
